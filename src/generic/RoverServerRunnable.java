@@ -8,6 +8,7 @@ public abstract class RoverServerRunnable implements Runnable{
 	private RoverServerSocket roverServerSocket;
 	
 	
+	
 	public RoverServerRunnable(int port) throws IOException{
 		setRoverServerSocket(port);
 	}

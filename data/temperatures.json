@@ -1,0 +1,596 @@
+{
+  "temps": [
+    {
+      "minute": 10,
+      "temp": -44.0
+    },
+    {
+      "minute": 20,
+      "temp": -44.0
+    },
+    {
+      "minute": 30,
+      "temp": -45.0
+    },
+    {
+      "minute": 40,
+      "temp": -46.0
+    },
+    {
+      "minute": 50,
+      "temp": -48.0
+    },
+    {
+      "minute": 60,
+      "temp": -49.0
+    },
+    {
+      "minute": 70,
+      "temp": -50.0
+    },
+    {
+      "minute": 80,
+      "temp": -51.0
+    },
+    {
+      "minute": 90,
+      "temp": -52.0
+    },
+    {
+      "minute": 100,
+      "temp": -53.0
+    },
+    {
+      "minute": 110,
+      "temp": -54.0
+    },
+    {
+      "minute": 120,
+      "temp": -55.0
+    },
+    {
+      "minute": 130,
+      "temp": -56.0
+    },
+    {
+      "minute": 140,
+      "temp": -57.0
+    },
+    {
+      "minute": 150,
+      "temp": -58.0
+    },
+    {
+      "minute": 160,
+      "temp": -59.0
+    },
+    {
+      "minute": 170,
+      "temp": -60.0
+    },
+    {
+      "minute": 180,
+      "temp": -61.0
+    },
+    {
+      "minute": 190,
+      "temp": -62.0
+    },
+    {
+      "minute": 200,
+      "temp": -62.0
+    },
+    {
+      "minute": 210,
+      "temp": -63.0
+    },
+    {
+      "minute": 220,
+      "temp": -64.0
+    },
+    {
+      "minute": 230,
+      "temp": -65.0
+    },
+    {
+      "minute": 240,
+      "temp": -66.0
+    },
+    {
+      "minute": 250,
+      "temp": -67.0
+    },
+    {
+      "minute": 260,
+      "temp": -68.0
+    },
+    {
+      "minute": 270,
+      "temp": -69.0
+    },
+    {
+      "minute": 280,
+      "temp": -70.0
+    },
+    {
+      "minute": 290,
+      "temp": -71.0
+    },
+    {
+      "minute": 300,
+      "temp": -72.0
+    },
+    {
+      "minute": 310,
+      "temp": -73.0
+    },
+    {
+      "minute": 320,
+      "temp": -74.0
+    },
+    {
+      "minute": 330,
+      "temp": -75.0
+    },
+    {
+      "minute": 340,
+      "temp": -76.0
+    },
+    {
+      "minute": 350,
+      "temp": -77.0
+    },
+    {
+      "minute": 360,
+      "temp": -78.0
+    },
+    {
+      "minute": 370,
+      "temp": -79.0
+    },
+    {
+      "minute": 380,
+      "temp": -80.0
+    },
+    {
+      "minute": 390,
+      "temp": -80.0
+    },
+    {
+      "minute": 400,
+      "temp": -79.0
+    },
+    {
+      "minute": 410,
+      "temp": -78.0
+    },
+    {
+      "minute": 420,
+      "temp": -77.0
+    },
+    {
+      "minute": 430,
+      "temp": -76.0
+    },
+    {
+      "minute": 440,
+      "temp": -75.0
+    },
+    {
+      "minute": 450,
+      "temp": -74.0
+    },
+    {
+      "minute": 460,
+      "temp": -73.0
+    },
+    {
+      "minute": 470,
+      "temp": -72.0
+    },
+    {
+      "minute": 480,
+      "temp": -70.0
+    },
+    {
+      "minute": 490,
+      "temp": -68.0
+    },
+    {
+      "minute": 500,
+      "temp": -66.0
+    },
+    {
+      "minute": 510,
+      "temp": -64.0
+    },
+    {
+      "minute": 520,
+      "temp": -62.0
+    },
+    {
+      "minute": 530,
+      "temp": -60.0
+    },
+    {
+      "minute": 540,
+      "temp": -55.0
+    },
+    {
+      "minute": 550,
+      "temp": -51.0
+    },
+    {
+      "minute": 560,
+      "temp": -47.0
+    },
+    {
+      "minute": 570,
+      "temp": -43.0
+    },
+    {
+      "minute": 580,
+      "temp": -39.0
+    },
+    {
+      "minute": 590,
+      "temp": -35.0
+    },
+    {
+      "minute": 600,
+      "temp": -31.0
+    },
+    {
+      "minute": 610,
+      "temp": -27.0
+    },
+    {
+      "minute": 620,
+      "temp": -23.0
+    },
+    {
+      "minute": 630,
+      "temp": -19.0
+    },
+    {
+      "minute": 640,
+      "temp": -18.0
+    },
+    {
+      "minute": 650,
+      "temp": -17.0
+    },
+    {
+      "minute": 660,
+      "temp": -16.0
+    },
+    {
+      "minute": 670,
+      "temp": -15.0
+    },
+    {
+      "minute": 680,
+      "temp": -14.0
+    },
+    {
+      "minute": 690,
+      "temp": -13.0
+    },
+    {
+      "minute": 700,
+      "temp": -13.0
+    },
+    {
+      "minute": 710,
+      "temp": -12.0
+    },
+    {
+      "minute": 720,
+      "temp": -11.0
+    },
+    {
+      "minute": 730,
+      "temp": -10.0
+    },
+    {
+      "minute": 740,
+      "temp": -9.0
+    },
+    {
+      "minute": 750,
+      "temp": -9.0
+    },
+    {
+      "minute": 760,
+      "temp": -6.0
+    },
+    {
+      "minute": 770,
+      "temp": -3.0
+    },
+    {
+      "minute": 780,
+      "temp": 0.0
+    },
+    {
+      "minute": 790,
+      "temp": 1.0
+    },
+    {
+      "minute": 800,
+      "temp": 1.0
+    },
+    {
+      "minute": 810,
+      "temp": 2.0
+    },
+    {
+      "minute": 820,
+      "temp": 3.0
+    },
+    {
+      "minute": 830,
+      "temp": 4.0
+    },
+    {
+      "minute": 840,
+      "temp": 5.0
+    },
+    {
+      "minute": 850,
+      "temp": 6.0
+    },
+    {
+      "minute": 860,
+      "temp": 7.0
+    },
+    {
+      "minute": 870,
+      "temp": 8.0
+    },
+    {
+      "minute": 880,
+      "temp": 9.0
+    },
+    {
+      "minute": 890,
+      "temp": 10.0
+    },
+    {
+      "minute": 900,
+      "temp": 9.0
+    },
+    {
+      "minute": 910,
+      "temp": 8.0
+    },
+    {
+      "minute": 920,
+      "temp": 7.0
+    },
+    {
+      "minute": 930,
+      "temp": 6.0
+    },
+    {
+      "minute": 940,
+      "temp": 5.0
+    },
+    {
+      "minute": 950,
+      "temp": 4.0
+    },
+    {
+      "minute": 960,
+      "temp": 3.0
+    },
+    {
+      "minute": 970,
+      "temp": 2.0
+    },
+    {
+      "minute": 980,
+      "temp": 1.0
+    },
+    {
+      "minute": 990,
+      "temp": 0.0
+    },
+    {
+      "minute": 1000,
+      "temp": -2.0
+    },
+    {
+      "minute": 1010,
+      "temp": -3.0
+    },
+    {
+      "minute": 1020,
+      "temp": -4.0
+    },
+    {
+      "minute": 1030,
+      "temp": -5.0
+    },
+    {
+      "minute": 1040,
+      "temp": -6.0
+    },
+    {
+      "minute": 1050,
+      "temp": -7.0
+    },
+    {
+      "minute": 1060,
+      "temp": -8.0
+    },
+    {
+      "minute": 1070,
+      "temp": -9.0
+    },
+    {
+      "minute": 1080,
+      "temp": -10.0
+    },
+    {
+      "minute": 1090,
+      "temp": -11.0
+    },
+    {
+      "minute": 1100,
+      "temp": -12.0
+    },
+    {
+      "minute": 1110,
+      "temp": -13.0
+    },
+    {
+      "minute": 1120,
+      "temp": -14.0
+    },
+    {
+      "minute": 1130,
+      "temp": -15.0
+    },
+    {
+      "minute": 1140,
+      "temp": -16.0
+    },
+    {
+      "minute": 1150,
+      "temp": -17.0
+    },
+    {
+      "minute": 1160,
+      "temp": -18.0
+    },
+    {
+      "minute": 1170,
+      "temp": -19.0
+    },
+    {
+      "minute": 1180,
+      "temp": -20.0
+    },
+    {
+      "minute": 1190,
+      "temp": -21.0
+    },
+    {
+      "minute": 1200,
+      "temp": -22.0
+    },
+    {
+      "minute": 1210,
+      "temp": -23.0
+    },
+    {
+      "minute": 1220,
+      "temp": -24.0
+    },
+    {
+      "minute": 1230,
+      "temp": -25.0
+    },
+    {
+      "minute": 1240,
+      "temp": -26.0
+    },
+    {
+      "minute": 1250,
+      "temp": -27.0
+    },
+    {
+      "minute": 1260,
+      "temp": -28.0
+    },
+    {
+      "minute": 1270,
+      "temp": -29.0
+    },
+    {
+      "minute": 1280,
+      "temp": -30.0
+    },
+    {
+      "minute": 1290,
+      "temp": -31.0
+    },
+    {
+      "minute": 1300,
+      "temp": -32.0
+    },
+    {
+      "minute": 1310,
+      "temp": -33.0
+    },
+    {
+      "minute": 1320,
+      "temp": -34.0
+    },
+    {
+      "minute": 1330,
+      "temp": -35.0
+    },
+    {
+      "minute": 1340,
+      "temp": -36.0
+    },
+    {
+      "minute": 1350,
+      "temp": -37.0
+    },
+    {
+      "minute": 1360,
+      "temp": -37.0
+    },
+    {
+      "minute": 1370,
+      "temp": -38.0
+    },
+    {
+      "minute": 1380,
+      "temp": -38.0
+    },
+    {
+      "minute": 1390,
+      "temp": -39.0
+    },
+    {
+      "minute": 1400,
+      "temp": -39.0
+    },
+    {
+      "minute": 1410,
+      "temp": -40.0
+    },
+    {
+      "minute": 1420,
+      "temp": -40.0
+    },
+    {
+      "minute": 1430,
+      "temp": -41.0
+    },
+    {
+      "minute": 1440,
+      "temp": -41.0
+    },
+    {
+      "minute": 1450,
+      "temp": -42.0
+    },
+    {
+      "minute": 1460,
+      "temp": -42.0
+    },
+    {
+      "minute": 1470,
+      "temp": -43.0
+    },
+    {
+      "minute": 1480,
+      "temp": -43.0
+    }
+  ]
+}

@@ -8,10 +8,12 @@ public class ModuleBase {
 	
 	double maxTemp;
 	
+	//will be true if the module is having heater
 	boolean isHeater;
 	
 	State heaterState;
 	
+	//will be true if the module is having cooler
 	boolean isCooler;
 	
 	State coolerState;
