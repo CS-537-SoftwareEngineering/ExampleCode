@@ -32,7 +32,7 @@ public class ThermalDataSector {
 	public ThermalDataSector(){
 		
 	  setModuleMap(new HashMap<Modules, ModuleBase>());
-		
+	  //populateModuleMap();
 		init();
 	}
 	
@@ -83,7 +83,7 @@ public class ThermalDataSector {
 	    e.printStackTrace();
       } 
       
-      System.out.println("Map tempChart created with "+tempChart.size() + " Objects");
+      System.out.println("Map tempChart created with " + tempChart.size() + " Objects");
 	 
 	}
 	
@@ -112,6 +112,7 @@ public class ThermalDataSector {
 	  //Modules is Enum holding all the rover's modules name
 		for(Modules mod:Modules.values()){
 			ModuleBase moduleBase = new ModuleBase();
+			
 			setTempRange(mod, moduleBase);
 			moduleMap.put(mod, moduleBase);
 			//System.out.println(mod);
@@ -127,5 +128,16 @@ public class ThermalDataSector {
 
 	public void setModuleMap(Map<Modules, ModuleBase> hashMap) {
 		this.moduleMap = hashMap;
+		
 	}
+	
+	// we need to have class of sensor which is going to read data every few seconds from instrument surrounding.
+	
+	//create a method which takes current temp from sensor with the instrument name
+	//compare the current temperature with MaxTemp and MinTemp of the instrument and send the
+	//data if heater needed to be ON of OFF
+	
+	//we need to update the heater status (ON/OFF) if status of the heater changes.
+
+	
 }
