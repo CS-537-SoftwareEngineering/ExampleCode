@@ -4,49 +4,49 @@
 	  "name": "NAVCAM",
 	  "minTemp": -55,
 	  "maxTemp": 5,
-	  "heater": "YES",
-	  "cooler": "NO"
-	}
+	  "heater": true,
+	  "cooler": false
+	},
 	{
 	  "name": "Chemmin",
 	  "minTemp": -40,
 	  "maxTemp": 20,
-	  "heater": "YES",
-	  "cooler": "YES"
-	}
+	  "heater": true,
+	  "cooler": true
+	},
 	{
 	  "name": "Chemcam Laser",
 	  "minTemp": -10,
 	  "maxTemp": 0,
-	  "heater": "YES",
-	  "cooler": "YES"
-	}
+	  "heater": true,
+	  "cooler": true
+	},
 	{
 	  "name": "Chemcam",
 	  "minTemp": -40,
 	  "maxTemp": 20,
-	  "heater": "YES",
-	  "cooler": "YES"
-	}
+	  "heater": true,
+	  "cooler": true
+	},
 	{
 	  "name": "hazcam",
 	  "minTemp": -55,
 	  "maxTemp": 15,
-	  "heater": "YES",
-	  "cooler": "NO"
-	}
+	  "heater": false,
+	  "cooler": true
+	},
 	{
 	  "name": "APXS",
 	  "minTemp": -85,
 	  "maxTemp": -40,
-	  "heater": "NO",
-	  "cooler": "YES"
-	}
+	  "heater": false,
+	  "cooler": true
+	},
 	{
-	  "name": "Fault Protection",
-	  "minTemp": null,
-	  "maxTemp": null,
-	  "heater": "YES",
-	  "cooler": "YES"
+	  "name": "Fault",
+	  "minTemp": -50,
+	  "maxTemp": 0,
+	  "heater":true,
+	  "cooler": true
 	}]
 }
