@@ -167,7 +167,7 @@ public class ThermalDataSector {
 
 				JSONObject jo = (JSONObject) o;
 
-				System.out.println(jo.get("maxTemp").toString());
+				//System.out.println(jo.get("maxTemp").toString());
 				ModuleBase moduleBase = new ModuleBase();
 				moduleBase.setMaxTemp(new Double(Double.parseDouble(jo.get(
 						"maxTemp").toString())));
@@ -195,6 +195,7 @@ public class ThermalDataSector {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		System.out.println("The moduleBase in moduleMap is populated. moduleMap size is: " + moduleMap.size());
 
 	}
 
